@@ -1102,9 +1102,6 @@ audio {
 #b3,#b33 {
 	background-image: url('b3.png');
 }
-#b4,#b44{
-	background-image: url('b4.png');
-}
 #b5,#b55{
 	background-image: url('b5.png');
 }
@@ -1265,10 +1262,10 @@ audio {
 }
 
 .cake-cover {
-	margin-top: 50px;
+	margin-top: 10px;
 }
 .message {
-	margin-top: 200px;
+	margin-top: 50px;
 	display: none;
 }
 .message p {
